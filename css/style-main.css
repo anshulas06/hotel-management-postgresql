@@ -1,0 +1,150 @@
+.avail_img{
+    display: block; 
+    width:100%;
+    height:300px;;
+}
+.right-menu{
+    float: right;
+}
+.div-form{
+   
+   padding: 20px; 
+}
+.div-element{
+    display: inline-block;
+    width: 50%;
+}
+.body-pg{
+    background-image: url("../img/banner.png");
+    
+    height: 700px;
+}
+/* .jumbotron{
+
+    background-color: transparent;
+    height: 75%;
+    color: white;
+}*/
+.container{
+    color: white;
+} 
+
+.main-hd{
+    margin-top: 5%;
+    height: 250px;
+}
+.form-cl{
+    border-radius: 5px;
+    background-color: white;
+    color:dodgerblue;
+   
+}
+.room-hd{
+
+    height: 600px;
+    background-image: url("../img/banner2.png");
+    margin-bottom: 2%;
+}
+.feature-hd{
+    margin-top: 10%;
+    color:white;
+}
+
+.single_offers{
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+
+.login-hd{
+    background-image: url("../img/banner2.png");
+    margin-bottom: 2%;
+}
+.login-cl{
+    width: 200px;   
+    text-align: center;
+    color: black;
+    border-radius: 5px;
+}
+
+#count .card {
+    font-size: 2em; 
+}
+.card-red {
+      background: rgba(255, 99, 132, 0.2); 
+}
+.card-blue {
+      background: rgba(54, 162, 235, 0.2); 
+}
+.card-green {
+      background: rgba(75, 192, 192, 0.2); 
+}
+.card-header {
+      border: none; 
+}
+.count {
+      display: flex;
+      justify-content: space-between;
+      color: rgba(23, 1, 27, 0.8); 
+}
+.fa {
+    font-size: 10em; 
+}
+.info {
+        font-weight: bold; 
+}
+.info div {
+          text-align: end; 
+}
+.number {
+          font-size: 2em; 
+}
+.label {
+          color: black;
+          font-size: 5em; 
+}
+.card:hover {
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.07), 0 4px 8px rgba(0, 0, 0, 0.07); 
+}
+
+#graphs .card {
+    border: none; 
+    background: rgba(182, 75, 192, 0.301);
+    height: 300px;
+    text-align: center;
+}
+#graphs .card .card-header {
+      border: none;
+      font-size: 1.5em;
+      font-weight: bold;
+      color: rgba(0, 0, 0, 0.8); 
+}
+#graphs .card .number{
+    color: rgba(0, 0, 0, 0.8);
+
+
+}
+#graphs .card .label{
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 1.2em;
+}
+
+#graphs .card2 {
+    border: none; 
+    background: rgba(75, 192, 95, 0.315);
+}
+#graphs .card2 .number{
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 1.5em; 
+}
+
+.footer {
+
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
